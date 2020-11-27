@@ -1,2 +1,2 @@
-# Patient-appointment-manager
-Fullstack application developed in JS for managing the patients appointment
+# Vet-appointment-manager
+Fullstack application developed in JS for managing the appointments vet 
